@@ -64,3 +64,31 @@ body {
 .swal2-actions {
   @apply gap-2
 }
+
+.btn-img {
+    position:relative;
+}
+
+.btn-img::after {
+    content: '';
+    display:block;
+    width: 42.5px;
+    height: 47px;
+    background-image: url(/clover1.png)
+    position:absolute;
+    top: 50%;
+    margin-top: -21px;
+    left: -25px;
+}
+
+.btn-img::before {
+    content: '';
+    display:block;
+    width: 24.5px;
+    height: 23px;
+    background-image: url(/clover2.png)
+    position:absolute;
+    top: 50%;
+    margin-top: -33px;
+    right: -10px;
+}
