@@ -1,0 +1,17 @@
+{
+  "siteId": "slot-XQ7gGOSUJI",
+  "adminEmail": "onforyeon@gmail.com",
+  "theme": {
+    "fontFamily": "Paperlogy",
+    "boxBgColor": "rgba(255, 255, 255, 0.85)",
+    "boxPadding": "2rem",
+    "boxRadius": "24px",
+    "buttonBgColor": "#fdff8a",
+    "buttonTextColor": "#64cc84",
+    "buttonRadius": "9999px",
+    "highBgColor": "#64cc84",
+    "highTextColor": "#ffffff",
+    "adminLinkColor": "rgba(0, 0, 0, 0.3)",
+    "bgImageUrl": "./bg.png"
+  }
+}
