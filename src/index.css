@@ -75,6 +75,8 @@ body {
     width: 42.5px;
     height: 47px;
     background-image: url('/clover1.png');
+    background-position:center;
+    background-size:contain;
     position:absolute;
     top: 50%;
     margin-top: -21px;
@@ -87,6 +89,8 @@ body {
     width: 24.5px;
     height: 23px;
     background-image: url('/clover2.png');
+    background-position:center;
+    background-size:contain;
     position:absolute;
     top: 50%;
     margin-top: -33px;
